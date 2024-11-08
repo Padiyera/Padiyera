@@ -11,9 +11,11 @@
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+Click+Down;Hey%2C+Click+Down;Hey%2C+Click+Down;Hey%2C+Click+Down;Hey%2C+Click+Down;Hey%2C+Click+Down" alt="Typing SVG" /></a>
   </div>
 <div align="center">
-
+<br>
 <details>
-<summary>Open profile</summary>
+<summary style="font-size: 20px; font-weight: bold; color: #007bff; text-align: center; cursor: pointer; transition: color 0.3s ease;">
+    ✨ Open Profile ✨
+  </summary>
 
 <br>
 

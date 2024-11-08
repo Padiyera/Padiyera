@@ -71,7 +71,6 @@
   <br><br>
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL"/>
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="mariadb" title="MariaDB"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="sql" title="SQL"/>
 </kbd>
       <kbd>
         <kbd>Operating System, Networking & Deployment</kbd>

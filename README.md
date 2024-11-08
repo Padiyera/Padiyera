@@ -41,36 +41,20 @@
 </div>
 
 <details>
-<summary>About me</summary>
+  <summary>💫 About Me</summary>
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
-<div align="left">
-
-```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Kartik.
- */
-```
-
-</div>
-
+  <div align="center">
+  
+  - 🔭 I’m currently working on my GitHub page: [https://codewhiteweb.cf](https://codewhiteweb.cf)
+  - 🌱 I’m currently learning: Python
+  - 👯 I’m looking to collaborate on my new webpage
+  - 🤔 I love playing sports, but not as much as being a programmer
+  - 💬 Ask me about new colaboration
+  - 📫 How to reach me:  Mail me at "ypadbor947@g.educaand.es"  
+  - ⚡ Fact: Think, reason, and act
+  
+  </div>
+  
 </details>
 
 <details>

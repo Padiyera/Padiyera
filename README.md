@@ -9,22 +9,7 @@
 ---
 <div align="center">
   
-# 💫About Me :
-🔭 I’m currently working on my github page : https://codewhiteweb.cf
-  
-🌱 I’m currently learning : Node.js
 
-  👯 I’m looking to collaborate on my webpage
-
-  🤔 I’m Not looking for help
-
-  💬 Ask me about for any help
-
-  📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or 
-  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
-
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
 <h2 align="center"><u>My Best Works</u></h2>
 
@@ -57,9 +42,6 @@
 
 <br>
 <div>
-  <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
-  </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>

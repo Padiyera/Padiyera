@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary>Tools</summary>
+<summary>💡Tools</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -145,7 +145,7 @@
 </details>
 
 <details>
-  <summary>Web Application Deployment</summary>
+  <summary>🚀Web Application Deployment</summary>
   <br>
   <div align="center">
   
@@ -165,7 +165,7 @@
 </details>
 
 <details>
-  <summary>Contact</summary>
+  <summary>🌐Contact</summary>
   <br>
    <a href="https://www.linkedin.com/in/kartikkapgate/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
 <a href="mailto:kkapagte5@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>

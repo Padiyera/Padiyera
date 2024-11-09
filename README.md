@@ -109,7 +109,7 @@ Actividad | Descripción
 
 Actividad | Descripción
 ----------|------------
-[Actividad2]([Actividad2](/Web-Application-Deployment/T.1_ServidoresWeb/Act_2.TrabajandoConScripts) | Trabajando con scripts) | Trabajando con scripts
+[Actividad2](/Web-Application-Deployment/T.1_ServidoresWeb/Act_2.TrabajandoConScripts) | Trabajando con scripts) | Trabajando con scripts
 <br>
 </details>
 

@@ -109,7 +109,7 @@ Actividad | Descripción
 
 Actividad | Descripción
 ----------|------------
-[Actividad 2: Trabajando con scripts](https://github.com/Padiyera/Web-Application-Deployment/blob/main/T.1_ServidoresWeb/Act_2.TrabajandoConScripts.md)
+[Web-Application-Deployment](https://github.com/Padiyera/Web-Application-Deployment)
 <br>
 </details>
 

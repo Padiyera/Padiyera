@@ -24,7 +24,6 @@
 
   <div align="center">
   
-  - 🔭 I’m currently working on my GitHub page: [https://codewhiteweb.cf](https://codewhiteweb.cf)
   - 🌱 I’m currently learning: Python
   - 👯 I’m looking to collaborate on my new webpage
   - 🤔 I love playing sports, but not as much as being a programmer

@@ -102,7 +102,6 @@
 
 Actividad | Descripción
 ----------|------------
-
 [Actividad1](/Web-Application-Deployment/proyecto/Actividad1.md) | Act.1_Proyecto 
 [Actividad2](/Web-Application-Deployment/proyecto/Actividad2.md) | Act.2_Proyecto 
 
@@ -110,7 +109,7 @@ Actividad | Descripción
 
 Actividad | Descripción
 ----------|------------
-[Actividad2](/Padiyera/Web-Application-Deployment/T.1_ServidoresWeb/Act_2.TrabajandoConScripts.md) | Trabajando con scripts) | Trabajando con scripts
+[Actividad2](/Padiyera/Web-Application-Deployment/T.1_ServidoresWeb/Act_2.TrabajandoConScripts.md) | Trabajando con scripts
 <br>
 </details>
 

@@ -102,14 +102,14 @@
 
 Actividad | Descripción
 ----------|------------
-[Actividad1](/proyecto/Actividad1.md) | Act.1_Proyecto 
-[Actividad2](/proyecto/Actividad2.md) | Act.2_Proyecto 
+[Actividad1](/Web-Application-Deployment/proyecto/Actividad1.md) | Act.1_Proyecto 
+[Actividad2](/Web-Application-Deployment/proyecto/Actividad2.md) | Act.2_Proyecto 
 
 <h3 align="center">TEMA 1 - Servidores Web</h2>
 
 Actividad | Descripción
 ----------|------------
-[Actividad2](/Actividad2) | Trabajando con scripts
+[Actividad2](/Web-Application-Deployment/Actividad2) | Trabajando con scripts
 <br>
 </details>
 

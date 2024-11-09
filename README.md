@@ -110,7 +110,7 @@ Actividad | Descripción
 
 Actividad | Descripción
 ----------|------------
-[Actividad2](/Web-Application-Deployment/T.1_ServidoresWeb/Act_2.TrabajandoConScripts.md) | Trabajando con scripts) | Trabajando con scripts
+[Actividad2](/Padiyera/Web-Application-Deployment/T.1_ServidoresWeb/Act_2.TrabajandoConScripts.md) | Trabajando con scripts) | Trabajando con scripts
 <br>
 </details>
 

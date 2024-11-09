@@ -102,14 +102,14 @@
 
 Actividad | Descripción
 ----------|------------
-[Actividad1](/Web-Application-Deployment/proyecto/Actividad1.md) | Act.1_Proyecto 
-[Actividad2](/Web-Application-Deployment/proyecto/Actividad2.md) | Act.2_Proyecto 
+[Actividad 1](/Web-Application-Deployment/proyecto/Actividad1.md) | Act.1_Proyecto 
+[Actividad 2](/Web-Application-Deployment/proyecto/Actividad2.md) | Act.2_Proyecto 
 
 <h3 align="center">TEMA 1 - Servidores Web</h2>
 
 Actividad | Descripción
 ----------|------------
-[Web-Application-Deployment](https://github.com/Padiyera/Web-Application-Deployment)
+[Actividad 2 ](https://raw.githubusercontent.com/Padiyera/Web-Application-Deployment/main/T.1_ServidoresWeb/Act_2.TrabajandoConScripts.md)| Trabajando con scripts
 <br>
 </details>
 

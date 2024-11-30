@@ -104,7 +104,7 @@
 
 Actividad | Descripción
 ----------|------------
-[1_Trimestre](https://raw.githubusercontent.com/Padiyera/Web-Application-Deployment/refs/heads/main/Tr.1_Proyecto/Myproyect) | Proyecto 1
+[1_Trimestre](https://raw.githubusercontent.com/Padiyera/Web-Application-Deployment/refs/heads/main/Tr.1_Proyecto/Readme.md) | Proyecto 1
 [2_Trimestre](https://raw.githubusercontent.com/Padiyera/Web-Application-Deployment/refs/heads/main/Tr.1_Proyecto/Myproyect2) | Proyecto 2
 
 <h3 align="center">TEMA 1 - Servidores Web</h2>
